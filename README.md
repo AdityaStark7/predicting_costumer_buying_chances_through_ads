@@ -1,1 +1,1 @@
-# Predicting costumer buying chances through ads
+# Predicting costumer buying chances through Ads
